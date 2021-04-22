@@ -1,0 +1,2 @@
+# VanillaJSSingletonPattern
+Created with CodeSandbox
